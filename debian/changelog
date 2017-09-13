@@ -1,0 +1,11 @@
+hello-1.0 (1.0.1-2) scibian9; urgency=medium
+
+  * S9 port.
+
+ -- Alexis Bezverkhyy <alexis.bezverkhyy@edf.fr>  Wed, 13 Sep 2017 14:49:55 +0200
+
+hello-1.0 (1.0.1-1) calibre9; urgency=medium
+
+  * Initial release.
+
+ -- Alexis Bezverkhyy <alexis.bezverkhyy@edf.fr>  Wed, 02 Dec 2015 17:05:17 +0100

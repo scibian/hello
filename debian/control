@@ -1,0 +1,15 @@
+Source: hello-1.0
+Section: alien
+Homepage: http://calibre.edf.fr
+Maintainer: Alexis Bezverkhyy <alexis.bezverkhyy@edf.fr>
+Priority: optional
+Build-Depends: debhelper (>= 7), python
+Standards-Version: 3.9.1
+XC-Restricted: no
+
+Package: hello-1.0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Outil de hello
+ Cet outil vous dit hello.
+ En GTK3.
