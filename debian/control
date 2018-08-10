@@ -10,6 +10,5 @@ XC-Restricted: no
 Package: hello-1.0
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Outil de hello
- Cet outil vous dit hello.
- En GTK3.
+Description: Hello tool
+ This tool says hello. Test package used for scibian aspects
